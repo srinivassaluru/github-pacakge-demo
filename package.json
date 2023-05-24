@@ -1,0 +1,15 @@
+{
+  "name": "@srinivassaluru/github-pacakge-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": {
+    "url": "git://github.com/srinivassaluru/github-pacakge-demo.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
